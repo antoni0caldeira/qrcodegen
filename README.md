@@ -1,3 +1,3 @@
-# BoilerPlate
+# QR Code Gen
 
-Boilerplate code for HTML projects
+QRcode Generator using Google Chart API
